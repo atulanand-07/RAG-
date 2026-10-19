@@ -1,0 +1,47 @@
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-classic
+langgraph
+
+# LLM integrations
+langchain-google-genai
+langchain-ollama
+langchain-huggingface
+
+# Document loading and text splitting
+langchain-community
+langchain-text-splitters
+pypdf
+PyMuPDF
+
+# Vector database
+langchain-chroma
+chromadb
+pinecone
+langchain-pinecone
+faiss-cpu
+
+# Embeddings and machine learning
+sentence-transformers
+transformers
+torch
+
+# BM25 keyword retrieval
+rank-bm25
+
+# Environment variables
+python-dotenv
+
+# API development
+fastapi
+pydantic
+
+# Jupyter notebook support
+ipykernel
+
+# Data processing
+numpy
+pandas
+
+
